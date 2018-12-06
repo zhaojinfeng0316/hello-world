@@ -1,0 +1,7 @@
+﻿lpUserID,nType,lpDirectory 
+81805208212709351846,1,C:\Program Files\Passport Reader\Samples\Reading China Resident Identity Card\bin,----正确参数
+81805208212709351846,0,C:\Program Files\Passport Reader\Samples\Reading China Resident Identity Card\bin,----正确参数
+1805208212709351846,1,C:\Program Files\Passport Reader\Samples\Reading China Resident Identity Card\bin,----错误用户ID
+81805208212709351846,-1,C:\Program Files\Passport Reader\Samples\Reading China Resident Identity Card\bin,----错误nType
+81805208212709351846,"a",C:\Program Files\Passport Reader\Samples\Reading China Resident Identity Card\bin,----错误nType
+81805208212709351846,1,C:\Program Files\Passport Reader\Samples\Reading China Resident Identity Card\bin\IDCard.dll,----错误绝对路径
