@@ -1,5 +1,0 @@
-﻿lpUserID,    nType,    lpDirectory,    ResponseCode
-"81805208212709351846",1,"C:\\Program Files\\Passport Reader\\Samples\\Reading China Resident Identity Card\\bin\\",0,    ----正确参数
-"81805208212709351846",0,"C:\\Program Files\\Passport Reader\\Samples\\Reading China Resident Identity Card\\bin\\,0,    ----正确参数
-"1805208212709351846",1,"C:\\Program Files\\Passport Reader\\Samples\\Reading China Resident Identity Card\\bin\\,1,    ----错误用户ID
-"81805208212709351846",1,"C:\\Program Files\\Passport Reader\\Samples\\Reading China Resident Identity Card\\bin\\IDCard.dll",4,    ----错误绝对路径
